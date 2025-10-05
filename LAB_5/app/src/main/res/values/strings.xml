@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LAB_5</string>\
+    <string name="tilt_tip">Tilt the phone to move the image</string>
+</resources>
